@@ -1,0 +1,2 @@
+module PeanutsHelper
+end
